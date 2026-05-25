@@ -4,8 +4,17 @@
   --accent-font: "PressStart2P", monospace;
   --main-text-weight: 410;
   --title-text-weight: 715;
+  --logo-size: clamp(49px, 4.51vw, 65px);
+  --title-size: clamp(14px, 1.6vw, 23px);
+
   --page-background:
     repeating-linear-gradient(to right, #d3d3d3 0 2px, transparent 2px 4px),
     repeating-linear-gradient(to bottom, #d3d3d3 0 2px, transparent 2px 4px),
     linear-gradient(to bottom, #e7e7e7 0.01%, #1a1a1a 100%);
+  --content-background-color: #fff;
+  --main-color: #000;
+
+  --content-width: clamp(375px, 48.6vw, 700px);
+  --page-padding-block: 100px;
+  --header-padding: clamp(122px, 9.03vw, 130px);
 }
