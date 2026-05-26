@@ -16,6 +16,7 @@
   --content-background-color: #fff;
   --main-color: #000;
   --main-border: 2px solid #000;
+  --label-stroke-color: #fff;
 
   --content-width: clamp(375px, 48.6vw, 700px);
   --page-padding-block: 100px;
