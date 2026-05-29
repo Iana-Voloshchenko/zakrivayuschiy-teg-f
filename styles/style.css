@@ -55,6 +55,12 @@
   font-size: var(--title-size);
 }
 
+.cards__list {
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+}
+
 .card {
   border: var(--main-border);
   background-color: var(--content-background-color);
