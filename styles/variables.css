@@ -17,6 +17,9 @@
   --main-color: #000;
   --main-border: 2px solid #000;
   --label-stroke-color: #fff;
+  --contour-color: #000;
+  --animation-fill-color: #FF0000;
+  --hover-color: #000;
 
   --content-width: clamp(375px, 48.6vw, 700px);
   --page-padding-block: 100px;
